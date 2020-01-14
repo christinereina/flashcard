@@ -1,0 +1,13 @@
+.hidden-element0, .hidden-element1, .hidden-element2, .hidden-element3, .hidden-element4, .hidden-element5, .hidden-element6, .hidden-element7, .hidden-element8, .hidden-element9, .hidden-element10, .hidden-element11, .hidden-element12, .hidden-element13, .hidden-element14, .hidden-element15, .hidden-element16, .hidden-element17, .hidden-element18 {
+  display: none;
+}
+
+.click0, .click1, .click2, .click3, .click4, .click5, .click6, .click7, .click8, .click9, .click10, .click11, .click12, .click13, .click14, .click15, .click16, .click17, .click18 {
+  cursor: pointer;
+  text-decoration: underline;
+  color: green;
+}
+
+h1 {
+  text-align: center;
+}
